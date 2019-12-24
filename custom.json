@@ -11,7 +11,7 @@
   "magisk": {
     "version": "19.0",
     "versionCode": "19000",
-    "link": "https://github.com/DepSpiel/magisk_files/raw/master/magisk.zip:,
-    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/6f94236b1407bd0c162647db75dfa2ac956163ca/notes.md"
+    "link": "https://github.com/DepSpiel/magisk_files/raw/master/magisk.zip",
+    "note": "https://raw.githubusercontent.com/DepSpiel/magisk_files/master/notes.md"
   }
 }
