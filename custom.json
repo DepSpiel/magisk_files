@@ -10,7 +10,7 @@
   },
   "magisk": {
     "version": "20.1",
-    "versionCode": "20100",
+    "versionCode": "20228",
     "link": "https://github.com/DepSpiel/magisk_files/raw/master/magisk.zip",
     "note": "https://raw.githubusercontent.com/DepSpiel/magisk_files/master/notes.md"
   }
