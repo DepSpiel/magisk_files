@@ -1,7 +1,7 @@
 {
   "app": {
-    "version": "7.4.0",
-    "versionCode": "253",
+    "version": "7.5.1",
+    "versionCode": "267",
     "link": "https://github.com/DepSpiel/magisk_files/blob/master/app.apk",
     "note": "https://raw.githubusercontent.com/topjohnwu/Magisk/7da97489cc0f6bb0ddcde8d5a91fa1719bf01791/app/src/main/res/raw/changelog.md"
   },
@@ -9,8 +9,8 @@
     "link": "https://github.com/DepSpiel/magisk_files/raw/master/uninstall.zip"
   },
   "magisk": {
-    "version": "20.1",
-    "versionCode": "20228",
+    "version": "20.3",
+    "versionCode": "20301",
     "link": "https://github.com/DepSpiel/magisk_files/raw/master/magisk.zip",
     "note": "https://raw.githubusercontent.com/DepSpiel/magisk_files/master/notes.md"
   }
