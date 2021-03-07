@@ -1,7 +1,7 @@
 {
   "app": {
-    "version": "22.0",
-    "versionCode": "22000",
+    "version": "7.5.1",
+    "versionCode": "267",
     "link": "https://github.com/topjohnwu/Magisk/releases/download/v22.0/Magisk-v22.0.apk",
     "note": "https://topjohnwu.github.io/Magisk/releases/22000.md"
   },
