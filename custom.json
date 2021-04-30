@@ -2,21 +2,17 @@
   "app": {
     "version": "7.5.1",
     "versionCode": "267",
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v22.0/Magisk-v22.0.apk",
-    "note": "https://topjohnwu.github.io/Magisk/releases/22000.md"
-  },
-  "stub": {
-    "versionCode": "18",
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v22.0/stub-release.apk"
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/manager-v7.5.1/MagiskManager-v7.5.1.apk",
+    "note": "https://raw.githubusercontent.com/topjohnwu/Magisk/7db523071d662dcc8eb187e3cbae141c716ba045/app/src/main/res/raw/changelog.md"
   },
   "uninstaller": {
-    "link": "https://github.com/topjohnwu/Magisk/releases/download/v21.4/Magisk-uninstaller-20210117.zip"
+    "link": "https://github.com/topjohnwu/Magisk/releases/download/v20.3/Magisk-uninstaller-20200110.zip"
   },
   "magisk": {
-    "version": "22.1",
-    "versionCode": "22001",
-    "link": "https://github.com/DepSpiel/magisk_files/raw/master/magisk-v20.3_Pixel2_diag.zip",
-    "note": "https://topjohnwu.github.io/Magisk/releases/22000.md",
-    "md5": "e14132835b4cc0878639fcf645db479c"
+    "version": "21.400",
+    "versionCode": "21400",
+    "link": "https://github.com/sominn/magisk_diag/releases/download/21.400/magisk-debug.zip",
+    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/4f33b2656fd9ddc27fc7f9be4e83a747084ca908/notes.md",
+    "md5": "088fb6545e7042a4939bda7d21423b8b"
   }
 }
