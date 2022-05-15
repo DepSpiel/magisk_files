@@ -2,11 +2,11 @@
   "magisk": {
     "version": "diagport",
     "versionCode": "24350",
-    "link": "https://github.com/DepSpiel/magisk_files/blob/master/app-debug.apk",
+    "link": "https://github.com/DepSpiel/magisk_files/raw/master/app-debug.apk",
     "note": "https://raw.githubusercontent.com/DepSpiel/magisk_files/master/notes.md"
   },
   "stub": {
-    "versionCode": "24",
+    "versionCode": "28",
     "link": "https://github.com/DepSpiel/magisk_files/blob/master/stub-release.apk"
   }
 }
